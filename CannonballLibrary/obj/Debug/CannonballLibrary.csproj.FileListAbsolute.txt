@@ -1,0 +1,6 @@
+D:\Source\repos\CannonballLibrary\CannonballLibrary\bin\Debug\CannonballLibrary.dll
+D:\Source\repos\CannonballLibrary\CannonballLibrary\bin\Debug\CannonballLibrary.pdb
+D:\Source\repos\CannonballLibrary\CannonballLibrary\obj\Debug\CannonballLibrary.csprojAssemblyReference.cache
+D:\Source\repos\CannonballLibrary\CannonballLibrary\obj\Debug\CannonballLibrary.csproj.CoreCompileInputs.cache
+D:\Source\repos\CannonballLibrary\CannonballLibrary\obj\Debug\CannonballLibrary.dll
+D:\Source\repos\CannonballLibrary\CannonballLibrary\obj\Debug\CannonballLibrary.pdb
